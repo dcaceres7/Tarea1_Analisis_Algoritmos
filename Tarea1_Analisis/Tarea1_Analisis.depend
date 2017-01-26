@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1484953718 source:c:\users\daniela\documents\analisis de algoritmos\tarea1_analisis\test.cpp
+	"Test.h"
+
+1484953718 c:\users\daniela\documents\analisis de algoritmos\tarea1_analisis\test.h
+	<iostream>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1485064664 source:c:\users\daniela\documents\analisis de algoritmos\tarea1_analisis\main.cpp
+	"Test.h"
+	<iostream>
+
